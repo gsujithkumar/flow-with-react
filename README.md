@@ -3,10 +3,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### `yarn add flow-bin` to install flow
 yarn add flow-bin
 
-### in package.json add below section in scripts section
+### in package.json add below statement in scripts section
 "flow":"flow"
 
-### `yarn flow init` to initialize flow - this will create .flowconfig file
+### `yarn flow init` to initialize flow - this will create .flowconfig file(refer the .flowconfig file of this repo for sample)
 yarn flow init
 
 ### `yarn flow` to execute the flow
